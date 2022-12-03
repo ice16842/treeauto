@@ -145,7 +145,7 @@ function Profile() {
             </div>
             <br />
             <div className="mb-3">
-              <label className="form-label">เบอร์มือถือ</label>
+              <label className="form-label">เบอร์มือถือ ของฉันนะจ๊ะอิอิ!!!!!!!!</label>
               <input
                 type="text"
                 className="form-control"
